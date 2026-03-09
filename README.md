@@ -16,7 +16,8 @@ Ce manuel présente l'utilisation de programme type "modèle", on peut y retrouv
 
 Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrication. Ce bon est conçue spécifiquement pour l'utilisation de ce programme. Il nous permettra de connaître tous élément nécessaire pour programmer (Type, sens, essence, finition, détail...).
 
-![Bondefab](Images%Guide/Bon%de%fab%-%Portes%Bsuite_V3.pdf)
+[Bon de fab - Portes Bsuite_V3.pdf](https://github.com/user-attachments/files/25838568/Bon.de.fab.-.Portes.Bsuite_V3.pdf)
+
 
 ## Création d'un programme à partir d'un modèle vierge de porte standard
 
