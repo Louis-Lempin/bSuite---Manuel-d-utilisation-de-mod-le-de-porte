@@ -18,4 +18,4 @@ Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrica
 
 ##Création d'un programme à partir d'un modèle vierge de porte standard##
 
-![nouveau](Images%Guide/nouveau.png)
+![nouveau](Images%Guide/nouveau.PNG)
