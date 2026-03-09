@@ -12,3 +12,8 @@ Ce manuel présente l'utilisation de programme type "modèle", on peut y retrouv
 
 ---
 
+##Méthode d'usinage##
+
+Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrication. Ce bon est conçue spécifiquement pour l'utilisation de ce programme. Il nous permettra de connaître tous élément nécessaire pour programmer (Type, sens, essence, finition, détail...).
+
+##Création d'un programme à partir d'un modèle vierge de porte standard##
