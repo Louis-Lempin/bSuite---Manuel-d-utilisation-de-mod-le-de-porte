@@ -34,31 +34,3 @@ Cliquer sur "nouveau"
 
 [image1.html](https://github.com/user-attachments/files/25840042/image1.html)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Inkscape Output</title>
-</head>
-<body>
-    <canvas id='canvas' width='210' height='297'></canvas>
-    <script>
-    var ctx = document.getElementById("canvas").getContext("2d");
-    	
-// #layer1
-	
-// #path1
-	ctx.beginPath();
-	ctx.fillStyle = 'rgb(255, 0, 0)';
-	ctx.strokeStyle = 'rgb(236, 0, 0)';
-	ctx.lineWidth = 0.264583;
-	ctx.lineCap = 'butt';
-	ctx.lineJoin = 'miter';
-	ctx.moveTo(58.884759, 53.732342);
-	ctx.lineTo(58.884759, 30.546468);
-	ctx.fill();
-	ctx.stroke();
-
-    </script>
-</body>
-</html>
-
