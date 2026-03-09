@@ -32,6 +32,7 @@ Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrica
 
 Cliquer sur "nouveau"
 
-<img width="794" height="1123" alt="image1 html" src="https://github.com/user-attachments/assets/d04c7fb7-a787-4dba-9532-15fba2ed8a3a" />
+
+<img width="291" height="152" alt="image1 html" src="https://github.com/user-attachments/assets/89da86e5-344c-4b36-852a-a407d7349ccc" />
 
 
