@@ -28,7 +28,7 @@ Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrica
 
 ## Création d'un programme à partir d'un modèle vierge de porte standard
 
-** Création d'un nouveau fichier
+**Création d'un nouveau fichier**
 
 Cliquer sur "nouveau"
 
