@@ -28,4 +28,7 @@ Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrica
 
 ## Création d'un programme à partir d'un modèle vierge de porte standard
 
-![nouveau](Images%Guide/image1.PNG)
+
+<img width="291" height="59" alt="image1" src="https://github.com/user-attachments/assets/e56f2689-bb3f-4752-93de-afe7936d2bd6" />
+
+
