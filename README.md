@@ -1,4 +1,4 @@
-# bSuite---Manuel-d-utilisation-de-mod-le-de-porte
+# bSuite Manuel d'utilisation de modèle de porte
 Guide complet pour maîtriser les modèles de porte (Standard, double vantaux, double feuillure) grâce aux variables
 
 **Auteur :** Louis Lempin  
@@ -32,7 +32,26 @@ Dans bSuite, il est possible d'utiliser un modèle de programme afin de créer r
 
 L'utilisation d'un modèle a plusieurs avantages. Elle permet d'assurer une standardisation des programmes, de réduire les risques d'erreurs et de gagner du temps en programmation. Plutôt que de recréer entièrement un programme à chaque nouveaux chantiers, l'opérateur ouvre simplement le modèle et adapte son programme.
 
-Cette méthode est particulièrement utile car elle garantit que chaque programmme démarre avec les bon paramètres et conditions.
+Cette méthode est particulièrement utile car elle garantit que chaque programmme démarre avec les bon paramètres machine et les bonnes conditions d'usinage tout en coservant une organisation cohérente des opérations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **Création d'un nouveau fichier**
