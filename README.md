@@ -43,4 +43,4 @@ Lorsque vous créer un nouveau fichier une page de sélection de modèle doit s'
 
 <img width="669" height="154" alt="image2" src="https://github.com/user-attachments/assets/b5a76952-7f9a-408a-bc8e-825668fab726" />
 
-
+Cochez la case "affivhe la fénêtre pour choisir les modèles", réessayer de créer un nouveau fichier afin de sélectionner le modèle vierge de porte standard
