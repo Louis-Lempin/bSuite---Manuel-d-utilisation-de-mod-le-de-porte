@@ -36,3 +36,11 @@ Cliquer sur "nouveau"
 <img width="291" height="152" alt="image1 html" src="https://github.com/user-attachments/assets/89da86e5-344c-4b36-852a-a407d7349ccc" />
 
 
+**Sélection du modèle**
+
+Lorsque vous créer un nouveau fichier une page de sélection de modèle doit s'ouvrir, si ce n'est pas le cas. Vous devez aller dans l'onglet "Programmations générales".
+
+
+<img width="669" height="154" alt="image2" src="https://github.com/user-attachments/assets/b5a76952-7f9a-408a-bc8e-825668fab726" />
+
+
