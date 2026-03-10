@@ -8,7 +8,7 @@ Guide complet pour maîtriser les modèles de porte (Standard, double vantaux, d
 
 ## Introduction
 
-Ce manuel présente l'utilisation de programme type "modèle", on peut y retrouver la porte standardisé, la porte à double vantaux, la porte à double feuillure. Ces programmes possédent plusieurs variables permet de faire des modifications sur le modèle. Pour ce qui est des quincailleries des macros ont été réaliser afin de les appliquer sur le programme. Le princinpe de ces modèles est de permettre la réalisation d'un programme de bloc porte en évitant de passer par un logiciel de modélisation 2D/3D (En fonction de la demande). Ce programme nous permet d'être plus rapide, par rapport à la réalisation traditionnelle grâce à sa capaciter d'usiner deux montant en même temps.
+Ce manuel présente l'utilisation de programme type "modèle", on peut y retrouver la porte standardisé, la porte à double vantaux, la porte à double feuillure. Ces programmes possédent plusieurs variables permet de faire des modifications sur le modèle. Pour ce qui est des quincailleries des macros ont été réaliser afin de les appliquer sur le programme. Le principe de ces modèles est de permettre la réalisation d'un programme de bloc porte en évitant de passer par un logiciel de modélisation 2D/3D (En fonction de la demande). Ce programme nous permet d'être plus rapide, par rapport à la réalisation traditionnelle grâce à sa capaciter d'usiner deux montant en même temps.
 
 ---
 
@@ -26,16 +26,19 @@ Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrica
 
 ---
 
-## Création d'un programme à partir d'un modèle vierge de porte standard
+## Création d'un modèle vierge de porte standard
 
 Dans bSuite, il est possible d'utiliser un modèle de programme afin de créer rapidement un nouveau programme à partir d'un programme déjà existant. Le principe consiste à préparer à l'avance un programme contenant les paramètres essentiels. Ce programme sert ensuite de base de travail pour la création de nouvelles oeuvres.
 
 L'utilisation d'un modèle a plusieurs avantages. Elle permet d'assurer une standardisation des programmes, de réduire les risques d'erreurs et de gagner du temps en programmation. Plutôt que de recréer entièrement un programme à chaque nouveaux chantiers, l'opérateur ouvre simplement le modèle et adapte son programme.
 
-Cette méthode est particulièrement utile car elle garantit que chaque programmme démarre avec les bon paramètres machine et les bonnes conditions d'usinage tout en coservant une organisation cohérente des opérations.
+Cette méthode est particulièrement utile car elle garantit que chaque programmme démarre avec les bon paramètres machine et les bonnes conditions d'usinage tout en conservant une organisation cohérente des opérations.
 
 
 
+Le modèle est contrôlé par plusieur variables qu'il faut anticiper avant de créer des pièces sur bSuite. Pour cela vous retrouverez en bas à gauche les l'emplacement des variables.
+
+<img width="1382" height="321" alt="image4" src="https://github.com/user-attachments/assets/58aaff5d-289b-46db-892c-3a909ede971f" />
 
 
 
