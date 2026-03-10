@@ -28,6 +28,13 @@ Pour commencer l'utilisation de ce programme, il faut en amont un bon de fabrica
 
 ## Création d'un programme à partir d'un modèle vierge de porte standard
 
+Dans bSuite, il est possible d'utiliser un modèle de programme afin de créer rapidement un nouveau programme à partir d'un programme déjà existant. Le principe consiste à préparer à l'avance un programme contenant les paramètres essentiels. Ce programme sert ensuite de base de travail pour la création de nouvelles oeuvres.
+
+L'utilisation d'un modèle a plusieurs avantages. Elle permet d'assurer une standardisation des programmes, de réduire les risques d'erreurs et de gagner du temps en programmation. Plutôt que de recréer entièrement un programme à chaque nouveaux chantiers, l'opérateur ouvre simplement le modèle et adapte son programme.
+
+Cette méthode est particulièrement utile car elle garantit que chaque programmme démarre avec les bon paramètres et conditions.
+
+
 **Création d'un nouveau fichier**
 
 Cliquer sur "nouveau"
@@ -43,4 +50,8 @@ Lorsque vous créer un nouveau fichier une page de sélection de modèle doit s'
 
 <img width="669" height="154" alt="image2" src="https://github.com/user-attachments/assets/b5a76952-7f9a-408a-bc8e-825668fab726" />
 
-Cochez la case "affivhe la fénêtre pour choisir les modèles", réessayer de créer un nouveau fichier afin de sélectionner le modèle vierge de porte standard
+Cochez la case "affiche la fénêtre pour choisir les modèles", réessayer de créer un nouveau fichier afin de sélectionner le modèle vierge de porte standard
+
+<img width="625" height="336" alt="image3" src="https://github.com/user-attachments/assets/3f417667-821b-475d-97e5-cfedf631b664" />
+
+Le modèle permet de créer un nouveau fichier à partir d'un programme existant 
